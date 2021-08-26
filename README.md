@@ -1,3 +1,12 @@
+## 项目运行介绍
+先配置python环境
+运行menu.py
+可视化界面操作
+## AI 目录下增加model_data
+下载地址
+链接：https://pan.baidu.com/s/13feqJob5Ip8-ApUAPMHAIw 
+提取码：84qm
+** 训练所需的数据**
 ## YOLOV3：You Only Look Once目标检测模型在Pytorch当中的实现
 ---
 
